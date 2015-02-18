@@ -4,4 +4,5 @@ public class Uno {
 	int propoTres;
 	int propoCuatro;
 	int propSeis;
+	int propoQuinto;
 }
