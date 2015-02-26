@@ -6,4 +6,5 @@ public class Uno {
 	int propSeis;
 	int propoQuinto;
 	int propeis;
+	int HALLO;
 }
